@@ -1,0 +1,124 @@
+{
+    "hashId": "9z",
+    "key": "Main Menu",
+    "children": [
+      {
+        "hashId": "zZ",
+        "key": "Hakkımızda",
+        "children": [
+          {
+            "hashId": "e4",
+            "key": "Kalite Yönetim Sistemi",
+            "children": [
+              {
+                "hashId": "xn",
+                "key": "Sertifikalar",
+                "children": [],
+                "uri": {
+                  "hashId": "9z",
+                  "key": null,
+                  "path": "/hakkimizda/kalite-yonetimi/sertifikalar",
+                  "status": true
+                }
+              },
+              {
+                "hashId": "d0",
+                "key": "Vizyon Misyon",
+                "children": [],
+                "uri": {
+                  "hashId": "9z",
+                  "key": null,
+                  "path": "/hakkimizda/kalite-yonetimi/vizyon-misyon",
+                  "status": true
+                }
+              }
+            ],
+            "uri": {
+              "hashId": "9z",
+              "key": null,
+              "path": "/hakkimizda/kalite-yonetimi",
+              "status": true
+            }
+          },
+          {
+            "hashId": "NX",
+            "key": "Proje",
+            "children": [],
+            "uri": {
+              "hashId": "9z",
+              "key": null,
+              "path": "/hakkimizda/proje",
+              "status": true
+            }
+          }
+        ],
+        "uri": {
+          "hashId": "9z",
+          "key": null,
+          "path": "/hakkimizda",
+          "status": true
+        }
+      },
+      {
+        "hashId": "gG",
+        "key": "Hizmetler",
+        "children": [],
+        "uri": {
+          "hashId": "9z",
+          "key": null,
+          "path": "/hizmetler",
+          "status": true
+        }
+      },
+      {
+        "hashId": "3L",
+        "key": "Duyurular",
+        "children": [],
+        "uri": {
+          "hashId": "9z",
+          "key": null,
+          "path": "/duyurular",
+          "status": true
+        }
+      },
+      {
+        "hashId": "M9",
+        "key": "Üyelik",
+        "children": [],
+        "uri": {
+          "hashId": "9z",
+          "key": null,
+          "path": "/uyelik",
+          "status": true
+        }
+      },
+      {
+        "hashId": "jZ",
+        "key": "Antalya",
+        "children": [],
+        "uri": {
+          "hashId": "9z",
+          "key": null,
+          "path": "/antalya",
+          "status": true
+        }
+      },
+      {
+        "hashId": "0v",
+        "key": "İletişim",
+        "children": [],
+        "uri": {
+          "hashId": "9z",
+          "key": null,
+          "path": "/iletisim",
+          "status": true
+        }
+      }
+    ],
+    "uri": {
+      "hashId": "9z",
+      "key": null,
+      "path": "/#",
+      "status": true
+    }
+  }
